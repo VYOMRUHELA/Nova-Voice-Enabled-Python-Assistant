@@ -18,12 +18,12 @@ Features:
 
 Tech Stack:
 
-Python 3.x
+1.Python 3.x
 
-speech_recognition
+2.speech_recognition
 
-pyttsx3
+3.pyttsx3
 
-pyjokes
+4.pyjokes
 
-wikipedia
+5.wikipedia
